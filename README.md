@@ -2,9 +2,14 @@
 
 ## 19 - Escola de Línguas - acadêmico e comercial
 
+## Participantes
+
 Gerentes: Felipe Zanardi & Miguel Moret;
+
 Analistas: Marcos Betoni e Pedro Lapenta;
+
 SQAs: Felipe Wunder & Luan Yudi;
+
 Desenvolvedores: Marcos & Gabrielly;
 
 ## Escopo do produto
